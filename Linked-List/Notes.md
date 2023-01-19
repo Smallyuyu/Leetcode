@@ -1,6 +1,7 @@
-## 說明
+## ListNode筆記
 
-ListNode筆記
+**Dummy Node**
+又叫啞節點，指在一鏈表前新增一個指向該鏈表的節點
 
 **Function 1:**
 新增未初始化的ListNode
