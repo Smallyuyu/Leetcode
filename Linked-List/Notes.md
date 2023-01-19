@@ -3,9 +3,7 @@
 
 **Dummy Node**
 又叫啞節點，指在一鏈表前新增一個指向該鏈表的節點
-   
-      
-      
+<br><br><br>
 **Function 1:**
 新增未初始化的ListNode
 ```CPP
