@@ -1,4 +1,6 @@
 //思路一 遍歷
+C:
+```c
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
