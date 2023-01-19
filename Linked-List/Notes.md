@@ -20,4 +20,3 @@ ListNode* node = new ListNode(0);
 ```CPP
 ListNode* node = new ListNode(0,head);
 ```
-<br><br><br>
