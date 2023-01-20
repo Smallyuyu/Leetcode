@@ -38,7 +38,6 @@ for (const auto &i : s) {
 
 <br>
 
-[例題二]()
 
 ## 參考資料
 <br>
