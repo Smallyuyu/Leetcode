@@ -1,4 +1,11 @@
 ## unordered_set
+
+每個元素皆為唯一，且不重複。
+適用於：
+** Sliding Window **
+例題一
+例題二
+
 [參考連結一](https://shengyu7697.github.io/std-unordered_set/)
 
 <br>
