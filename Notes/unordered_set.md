@@ -2,15 +2,6 @@
 
 每個元素皆為唯一，且不重複。
 
-<br>
-
-[參考連結一](https://shengyu7697.github.io/std-unordered_set/)
-
-<br>
-
-[參考連結二](http://c.biancheng.net/view/7250.html)
-
-<br>
 
 ## Function
 ```CPP
@@ -48,3 +39,14 @@ for (const auto &i : s) {
 <br>
 
 [例題二]()
+
+## 參考資料
+<br>
+
+[參考連結一](https://shengyu7697.github.io/std-unordered_set/)
+
+<br>
+
+[參考連結二](http://c.biancheng.net/view/7250.html)
+
+<br>
