@@ -2,7 +2,7 @@
 
 每個元素皆為唯一，且不重複。
 適用於：
-** Sliding Window **
+**Sliding Window**
 例題一
 例題二
 
