@@ -1,8 +1,13 @@
 ## unordered_set
-[參考連結一](https://shengyu7697.github.io/std-unordered_set/)
+[參考連結一](https://shengyu7697.github.io/std-unordered_set/
+)
 [參考連結二](http://c.biancheng.net/view/7250.html)
+<br>
 
 **Function**
+
+<br>
+
 unordered_set<int> s
 |方法|功能|
 |---|---|
@@ -16,7 +21,9 @@ unordered_set<int> s
 |s.erase(key)|刪除元素|
 |s.clear()|清空容器|
 
-遍歷容器
+        
+**遍歷容器**
+        
 ```CPP
 for (auto iter = s.begin(); iter != s.end(); ++iter) {
         cout << *iter << endl;
