@@ -43,7 +43,7 @@ for (const auto &i : s) {
 ```
 
 ## Sliding Window
-[Leetcode 3.Longest Substring Without Repeating Characters](https://github.com/Smallyuyu/Leetcode/blob/main/Algorithm%20I/Day%206%20-%20Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+[Leetcode 3. Longest Substring Without Repeating Characters](https://github.com/Smallyuyu/Leetcode/blob/main/Algorithm%20I/Day%206%20-%20Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
 <br>
 
