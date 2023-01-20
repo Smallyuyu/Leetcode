@@ -1,10 +1,6 @@
 ## unordered_set
 
 每個元素皆為唯一，且不重複。
-適用於：
-**Sliding Window**
-例題一
-例題二
 
 [參考連結一](https://shengyu7697.github.io/std-unordered_set/)
 
@@ -43,3 +39,7 @@ for (const auto &i : s) {
         std::cout << i << " ";
 }
 ```
+
+## Sliding Window
+[例題一](https://github.com/Smallyuyu/Leetcode/blob/main/Algorithm%20I/Day%206%20-%20Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+[例題二]()
