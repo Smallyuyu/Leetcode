@@ -3,7 +3,7 @@
 每個元素皆為唯一，且不重複。
 
 
-## Function
+## 功能
 ```CPP
 unordered_set<int> s
 ```
