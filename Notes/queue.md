@@ -13,7 +13,8 @@ queue<int> q;
 |q.back()|返回最後一個元素|
 |q.empty()|回傳容器是否為空|
 |q.size()|回傳容器長度|
-|q.push(key)|加入值|
+|q.push(key)|加入值(已經struct整理過的多項參數)|
+|q.emplace(key)|加入值(多項參數)|
 |q.pop()|移除值|
 
 
